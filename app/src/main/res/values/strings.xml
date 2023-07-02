@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTaxi Clone</string>
+    <string name="free">Свободен</string>
+    <string name="busy">Занят</string>
+</resources>
