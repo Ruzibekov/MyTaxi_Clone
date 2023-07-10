@@ -17,7 +17,9 @@ object MyTaxiColor {
     val Font = Color(0xFF1E1E1E)
     val Green = Color(0xFF00CA4C)
     val White = Color(0xFFFFFFFF)
+    val White80 = Color(0xCCFFFFFF)
     val Red = Color(0xFFEF2E2E)
+    val Blue = Color(0xFF402EEF)
 }
 
 object Brushes {
