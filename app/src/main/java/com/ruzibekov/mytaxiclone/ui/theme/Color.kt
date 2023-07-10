@@ -1,5 +1,6 @@
 package com.ruzibekov.mytaxiclone.ui.theme
 
+import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 
 val Purple80 = Color(0xFFD0BCFF)
@@ -13,7 +14,13 @@ val Pink40 = Color(0xFF7D5260)
 object MyTaxiColor {
     val Black = Color(0xFF000000)
     val Dark = Color(0xFF2C2C2C)
+    val Font = Color(0xFF1E1E1E)
     val Green = Color(0xFF00CA4C)
     val White = Color(0xFFFFFFFF)
     val Red = Color(0xFFEF2E2E)
+}
+
+object Brushes {
+    val linearGradientBlackLight =
+        Brush.linearGradient(listOf(Color(0xFF212121), Color(0xFF585858)))
 }

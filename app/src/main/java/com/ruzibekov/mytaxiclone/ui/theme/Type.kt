@@ -18,15 +18,18 @@ val Roboto = FontFamily(
 
 val Typography = Typography(
 
+
+    titleMedium = TextStyle(
+        fontFamily = Roboto,
+        fontWeight = FontWeight.Bold,
+    ),
+    displayMedium = TextStyle(
+        fontFamily = Roboto,
+        fontWeight = FontWeight.Medium,
+    ),
     bodyMedium = TextStyle(
         fontFamily = Roboto,
         fontWeight = FontWeight.Normal,
-        fontSize = 14.sp
-    ),
-    titleSmall = TextStyle(
-        fontFamily = Roboto,
-        fontWeight = FontWeight.Bold,
-        fontSize = 10.sp,
     ),
     /* Other default text styles to override
 

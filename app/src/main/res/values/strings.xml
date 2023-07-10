@@ -2,4 +2,9 @@
     <string name="app_name">MyTaxi Clone</string>
     <string name="free">Свободен</string>
     <string name="busy">Занят</string>
+    <string name="orders">Заказы</string>
+    <string name="border">Бордюр</string>
+    <string name="rates">Тарифы</string>
+
+    <string name="mapbox_access_token">sk.eyJ1Ijoic2hha2hyaXlvcjEzIiwiYSI6ImNsZjJodXo1azAyN3czdG8xYjVlbWJtdXUifQ.oo_8PuNYHo2lkL2iLkknYQ</string>
 </resources>
